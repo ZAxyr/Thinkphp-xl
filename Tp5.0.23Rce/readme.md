@@ -3,8 +3,8 @@
 ## 安装
 
 ```
-git clone https://github.com/1derian/thinkphp5-rce.git
-cd thinkphp5-rce
+git clone https://github.com/ZAxyr/Thinkphp-xl/Tp5.0.23Rce 
+cd Tp5.0.23Rce
 pip3 install -r requirements.txt
 ```
 
